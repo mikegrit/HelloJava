@@ -31,5 +31,5 @@ deploy_key_rsa
 .~*
 
 
-#MALL测试工程
-log.txt
+# java
+*.class
