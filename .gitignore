@@ -1,0 +1,35 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# Visual Paradigm
+*.vpp.*
+*.vux
+
+# My configurations:
+db.ini
+deploy_key_rsa
+
+# Test
+
+# Idea
+.idea/
+
+#excel:
+.~*
+
+
+#MALL测试工程
+log.txt
