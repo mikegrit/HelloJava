@@ -8,12 +8,12 @@ public class EmployeeTest{
 		Employee empTwo = new Employee("RUNOOB2");
 		
 		empOne.empAge(26);
-		empOne.empDesignation("GAOJI");
+		empOne.empDesignation("高级程序员");
 		empOne.empSalary(1000);
 		empOne.printEmployee();
 		
 		empTwo.empAge(21);
-		empTwo.empDesignation("CAINAIAO");
+		empTwo.empDesignation("菜鸟程序员");
 		empTwo.empSalary(500);
 		empTwo.printEmployee();
 	}

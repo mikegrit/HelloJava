@@ -18,9 +18,9 @@ public class Employee{
   salary = empSalary;
   }
   public void printEmployee(){
-    System.out.println("NAME:"+name);
-    System.out.println("AGE:"+age);
-    System.out.println("POSITION:"+designation);
-    System.out.println("SALARY:"+salary);
+    System.out.println("姓名:"+name);
+    System.out.println("年龄:"+age);
+    System.out.println("职位:"+designation);
+    System.out.println("薪资:"+salary);
   }
 }
